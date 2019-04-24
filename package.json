@@ -1,0 +1,22 @@
+{
+  "name": "table-sticky-headers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merodriguez911231/table-sticky-headers.git"
+  },
+  "author": "Manuel Ernesto Garcia",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/merodriguez911231/table-sticky-headers/issues"
+  },
+  "homepage": "https://github.com/merodriguez911231/table-sticky-headers#readme",
+  "dependencies": {
+    "jquery": "^3.4.0"
+  }
+}
